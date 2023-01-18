@@ -4,4 +4,4 @@ for i in range(0,a):
     if i==4:
         break
 else:
-    print('print nhi hua ')
+    print('not printed')
